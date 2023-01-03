@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1672329328 source:c:\users\tiars\downloads\tisaaaa\std\main.cpp
+	"TubesKereta.h"
+	<iostream>
+
+1672326986 c:\users\tiars\downloads\tisaaaa\std\tubeskereta.h
+	<iostream>
+
+1672326805 source:c:\users\tiars\downloads\tisaaaa\std\tubeskereta.cpp
+	"TubesKereta.h"
+
+1672555619 source:c:\users\tuf gaming\downloads\std (1)\std\main.cpp
+	"TubesKereta.h"
+	<iostream>
+
+1672556005 c:\users\tuf gaming\downloads\std (1)\std\tubeskereta.h
+	<iostream>
+
+1672557905 source:c:\users\tuf gaming\downloads\std (1)\std\tubeskereta.cpp
+	"TubesKereta.h"
+
+1672560115 source:c:\users\tuf gaming\downloads\std\main.cpp
+	"TubesKereta.h"
+	<iostream>
+
+1672556005 c:\users\tuf gaming\downloads\std\tubeskereta.h
+	<iostream>
+
+1672559870 source:c:\users\tuf gaming\downloads\std\tubeskereta.cpp
+	"TubesKereta.h"
+
